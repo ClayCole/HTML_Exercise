@@ -9,14 +9,14 @@ slug: "/html-intro-exercise"
 
 Practice using HTML tags to structure a content on web pages.
 
-## Exercise 1
+## Exercise 1 - DONE
 
 Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
 
-## Exercise 2
+## Exercise 2 - DONE 
 
 Steps are to be completed under the div with `id="exercise2"`
 
@@ -28,7 +28,7 @@ Steps are to be completed under the div with `id="exercise2"`
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
 
-## Exercise 3
+## Exercise 3 - DONE. 
 
 Steps are to be completed under the div with `id="exercise3"`
 
@@ -36,15 +36,15 @@ Steps are to be completed under the div with `id="exercise3"`
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
 
-## Exercise 4
+## Exercise 4 - DONE 
 
 Steps are to be completed under the div with `id="exercise4"`
 
-1. Edit the **paragraph** element's text content so that:
-   - the word "span" is enclosed in a **span** element
-   - the word "underlined" is enclosed in an **underline** element
-   - the word "italicized" is enclosed in an **emphasis** element
-   - the word "bolded" is enclosed in an **strong** element
+1. Edit the paragraph element's text content so that:
+ - the word "Bredon" is enclosed in a span element
+ - any word "play" is enclosed in an underline element
+ - any word "beautiful" is enclosed in an emphasis element
+ - any word "point" is enclosed in an strong element
 
 ## Exercise 5
 
@@ -55,10 +55,10 @@ Steps are to be completed under the div with `id="exercise5"`
      - **one main element**
      - **three section elements**
      - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
+     - **one header element** - 1/1
+     - **two nav element** - 1/2
+     - **two unordered list element** - 1/2
+     - **five list item elements** - 3/5 
      - **five anchor elements**
      - **one footer element**
    - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
